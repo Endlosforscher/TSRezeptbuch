@@ -41,7 +41,7 @@ If you encounter any bugs, issues, or have suggestions for improvements, please 
 
 ## License
 
-By contributing to TSRezeptbuch, you agree to license your contributions under the terms of the [MIT License](../LICENSE).
+By contributing to TSRezeptbuch, you agree to license your contributions under the terms of the [MIT License](LICENSE).
 
 Thank you for your contribution!
 
