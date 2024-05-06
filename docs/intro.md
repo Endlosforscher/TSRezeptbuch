@@ -14,4 +14,11 @@ Here are some key features of TypeScript:
 
 Overall, TypeScript provides developers with the tools they need to write safer, more maintainable JavaScript code, especially in large-scale projects where strong typing and advanced language features are beneficial.
 
+Some benefits that you can achieve by adopting TypeScript:
+- TypeScript offers additional features to JavaScript, such as static types.
+- TypeScript compiles down to regular JavaScript.
+- TypeScript can be used for frontend and backend development with Node.js.
+- TypeScript is a superset of JavaScript, so it's not a new language to learn.
+- TypeScript identifies errors at compile time.
+
 For more information about TypeScript, visit the [official website](https://www.typescriptlang.org/).
