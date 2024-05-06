@@ -7,7 +7,7 @@ Thank you for your interest in contributing to TSRezeptbuch! By contributing, yo
 1. Fork the repository to your GitHub account.
 2. Clone your forked repository to your local machine:
 
-git clone https://github.com/endlosforscher/TSRecipeBook.git
+git clone https://github.com/endlosforscher/TSRezeptbuch.git
 
 3. Create a new branch for your contribution:
 
